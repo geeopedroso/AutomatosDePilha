@@ -1,0 +1,17 @@
+a b c
+ X Z
+#
+Z
+q0 q1 q2 q3 q4 q5
+q0
+q2 q5
+q0 # # q1 #
+q0 # # q3 #
+q0 a # q0 X
+q1 # Z q2 #
+q1 b X q1 #
+q2 c # q2 #
+q3 # # q4 #
+q3 b # q3 #
+q4 # Z q5 #
+q4 c X q4 #
